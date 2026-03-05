@@ -83,7 +83,7 @@ To get started with Cipher Health, follow the steps below:
 1. Clone this repo & install dependencies
 
 ```
-git clone https://github.com/vaniiiii/CipherHealth.git
+git clone https://github.com/dzmbs/CipherHealth.git
 cd CipherHealth
 yarn install
 ```
